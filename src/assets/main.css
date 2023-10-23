@@ -1,0 +1,19 @@
+@import './base.css';
+
+#app {
+  width: 100%;
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: #333;
+  transition: 0.4s;
+}
+
+a:hover{
+  color: #a07b67;
+}
+
